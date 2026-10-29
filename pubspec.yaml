@@ -1,0 +1,34 @@
+name: az_index_bar
+description: "A-Z index scrubber bar for contact-style lists with a floating bubble, sticky headers, locale-aware grouping and fast jumping. No extra dependencies."
+version: 0.0.1
+homepage: https://github.com/Rishav1995-roy/az_index_bar
+repository: https://github.com/Rishav1995-roy/az_index_bar
+issue_tracker: https://github.com/Rishav1995-roy/az_index_bar/issues
+
+topics:
+  - listview
+  - alphabet
+  - index
+  - contacts
+  - sticky-header
+
+screenshots:
+  - description: Scrubbing a contact list with the bubble indicator and sticky headers.
+    path: doc/demo.gif
+  - description: Contact list, light theme.
+    path: doc/screenshot_light.png
+  - description: Contact list, dark theme with a custom bar style.
+    path: doc/screenshot_dark.png
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ">=5.0.0 <7.0.0"
