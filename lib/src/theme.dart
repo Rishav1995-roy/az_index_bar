@@ -1,3 +1,4 @@
+// ignore: deprecated_member_use
 import 'package:flutter/material.dart';
 
 /// Visual settings for `AzIndexBar`. Every field is optional; missing values
