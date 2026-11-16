@@ -1,4 +1,5 @@
 import 'package:az_index_bar/az_index_bar.dart';
+// ignore: deprecated_member_use
 import 'package:flutter/material.dart';
 import 'package:flutter/semantics.dart';
 import 'package:flutter/services.dart';
