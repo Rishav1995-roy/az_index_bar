@@ -1,6 +1,6 @@
 name: az_index_bar
 description: "A-Z index scrubber bar for contact-style lists with a floating bubble, sticky headers, locale-aware grouping and fast jumping. No extra dependencies."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Rishav1995-roy/az_index_bar
 repository: https://github.com/Rishav1995-roy/az_index_bar
 issue_tracker: https://github.com/Rishav1995-roy/az_index_bar/issues
